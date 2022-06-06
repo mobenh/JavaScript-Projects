@@ -1,5 +1,9 @@
-# Color flipper
-A simple JavaScript project that changes the background color.
-![image](https://user-images.githubusercontent.com/96225596/170900672-153c56a6-086b-4fd7-a5e3-ad0a1ed11fda.png)
+# Reviews
+A simple JavaScript project that scrolls between diffrrent reviews.
+![image](https://user-images.githubusercontent.com/96225596/172214851-3e76ef99-0c05-4da0-84ff-5166661d26ae.png)
 
-The Simple button goes through a fix set of colors but hex generates random color.
+
+There is a previous button, next button and a "Suprise Me" button. 
+
+![image](https://user-images.githubusercontent.com/96225596/172214897-2f2f3c13-0c31-43fc-9f40-fa83943a111f.png)
+
